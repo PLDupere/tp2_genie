@@ -1,0 +1,18 @@
+
+https://react.dev/reference/react 
+npm install - g nano-react-app
+npx nano-react-app myapp
+
+https://react-bootstrap.github.io/docs/components/accordion 
+npm install react-bootstrap bootstrap
+
+https://origin.fontawesome.com/v5/docs/web/use-with/react 
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+
+
+cd myapp
+npm install
+
+npm start
