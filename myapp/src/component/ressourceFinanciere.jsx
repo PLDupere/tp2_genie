@@ -35,11 +35,11 @@ const RessourceFinanciere = () => {
               <Row>
                 <Col>
                   <Form.Group className="mb-3" controlId="DateDeNaissance">
-                    <Form.Label>Revenus d’emploi de l’année dernière :</Form.Label>
+                    <Form.Label>Revenus d'emploi de l'année dernière :</Form.Label>
                     <Form.Control type="text" placeholder="5431,43$" />
                   </Form.Group>
                   <Form.Group className="mb-3" controlId="DateDeNaissance">
-                    <Form.Label>Revenus potentiels de l’année en cours :</Form.Label>
+                    <Form.Label>Revenus potentiels de l'année en cours :</Form.Label>
                     <Form.Control type="text" placeholder="500 $" />
                   </Form.Group>
                 </Col>

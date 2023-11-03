@@ -46,7 +46,7 @@ const Inscription = () => {
                 </Button>
               </div>
               <div className="mt-5">
-                <h3>Choisit ton mot de passe</h3>
+                <h1>Choisit ton mot de passe</h1>
                 <Form.Group className="mb-3" controlId="MotDePasseSelection">
                   <FontAwesomeIcon icon={faLock} />{" "}
                   <Form.Label>Mot de passe :</Form.Label>

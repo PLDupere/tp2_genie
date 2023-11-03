@@ -18,6 +18,7 @@ export default () => (
     <PageDAcceuil />
     <Identification />
     <Inscription />
+
     <IndentiteEtudiant />
     <RenseignementScolaire />
     <SituationEtudiant />

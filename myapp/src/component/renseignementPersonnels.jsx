@@ -55,7 +55,6 @@ const RenseignementPersonnels = () => {
         </Col>
         <Col>{/**/}</Col>
       </Row>
-      <Row></Row>
     </Container>
   );
 };

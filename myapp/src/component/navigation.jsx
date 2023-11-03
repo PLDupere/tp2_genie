@@ -17,7 +17,7 @@ import "../css/index.css"
 const Navigation = () => {
   return (
     /*
-        Composant de vagigation
+        Composant de nagigation
     */
 
     <Container controlId="Navigation">
