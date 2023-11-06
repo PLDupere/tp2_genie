@@ -71,7 +71,7 @@ const Confirmation = () => {
                   <Col>
                     <Form.Group className="mb-3" controlId="Merci">
                       <Form.Label>
-                        Votre numero de demande est le : 24243
+                        Votre numéro de demande est le : 24243
                       </Form.Label>
                     </Form.Group>
                   </Col>

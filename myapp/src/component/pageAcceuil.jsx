@@ -29,6 +29,7 @@ const PageDAcceuil = () => {
             <Nav.Link href="#features">Le Ministre</Nav.Link>
             <Nav.Link href="#features">Salle de presse</Nav.Link>
             <Nav.Link href="./">S'authentifier</Nav.Link>
+            <Nav.Link href="./">Mon dossier</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

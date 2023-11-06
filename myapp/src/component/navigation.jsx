@@ -24,14 +24,14 @@ const Navigation = () => {
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Renseignement pernonnels</Nav.Link>
+            <Nav.Link href="#home">Renseignements personnels</Nav.Link>
             <Nav.Link href="#features">Calcul de l'aide financière</Nav.Link>
             <Nav.Link href="#features">Montants versés</Nav.Link>
             <Nav.Link href="#features">Demande d'aide financière</Nav.Link>
           </Nav>
           <Navbar.Brand href="#home">Se déconnecter</Navbar.Brand>
           <Navbar.Text>
-            Compte de : <a href="#login">Bill Murray</a>
+            Dossier de : <a href="#login">Bill Murray</a>
           </Navbar.Text>
         </Container>
       </Navbar>

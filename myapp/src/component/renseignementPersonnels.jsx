@@ -20,7 +20,7 @@ const RenseignementPersonnels = () => {
     */
 
     <Container controlId="RenseignementPersonnels">
-      <h1 className="text-center">Renseignement pernonnels</h1>
+      <h1 className="text-center">Renseignements personnels</h1>
       <Row>
         <Col>{/**/}</Col>
         <Col xs={7}>

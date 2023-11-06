@@ -36,7 +36,7 @@ const RenseignementScolaire = () => {
               <Row>
                 <Col>
                   <Form.Label>
-                    Nom de l’établissementd’enseignement :
+                    Nom de l’établissement d’enseignement :
                   </Form.Label>
                   <Form.Select
                     className="mb-3"
@@ -58,7 +58,7 @@ const RenseignementScolaire = () => {
                 </Col>
                 <Col>
                   <Form.Label>
-                    Code de l’établissementd’enseignement :
+                    Code de l’établissement d’enseignement :
                   </Form.Label>
                   <Form.Select
                     className="mb-3"

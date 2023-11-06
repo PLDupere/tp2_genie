@@ -16,20 +16,18 @@ import { Montant } from "./component/montant";
 export default () => (
   <>
     <PageDAcceuil />
-    <Identification />
-    <Inscription />
+    {/* <Identification /> */}
+    {/* <Inscription /> */}
 
-    <IndentiteEtudiant />
-    <RenseignementScolaire />
-    <SituationEtudiant />
-    <RessourceFinanciere />
-    <Confirmation />
+    {/* <IndentiteEtudiant /> */}
+    {/* <RenseignementScolaire /> */}
+    {/* <SituationEtudiant /> */}
+    {/* <RessourceFinanciere /> */}
+    {/* <Confirmation /> */}
     
-    <Navigation />
-    <RenseignementPersonnels />
-    <Navigation />
-    <Calcul />
-    <Navigation />
-    <Montant />
+    {/* <Navigation /> */}
+    {/* <RenseignementPersonnels /> */}
+    {/* <Calcul /> */}
+    {/* <Montant /> */}
   </>
 );

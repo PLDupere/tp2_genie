@@ -117,7 +117,7 @@ const IndentiteEtudiant = () => {
                     <Form.Label>Téléphone secondaire :</Form.Label>
                     <Form.Control type="text" placeholder="(555)555-9999" />
                   </Form.Group>
-                  <Form.Label>Citoyennté :</Form.Label>
+                  <Form.Label>Citoyenneté :</Form.Label>
                   <Form.Select
                     className="mb-3"
                     aria-label="Default select example"
