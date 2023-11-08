@@ -15,7 +15,7 @@ import { Montant } from "./component/montant";
 
 export default () => (
   <>
-    <PageDAcceuil />
+    {/* <PageDAcceuil /> */}
     {/* <Identification /> */}
     {/* <Inscription /> */}
 
@@ -25,8 +25,8 @@ export default () => (
     {/* <RessourceFinanciere /> */}
     {/* <Confirmation /> */}
     
-    {/* <Navigation /> */}
-    {/* <RenseignementPersonnels /> */}
+    <Navigation />
+    <RenseignementPersonnels />
     {/* <Calcul /> */}
     {/* <Montant /> */}
   </>
